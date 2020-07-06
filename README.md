@@ -1,6 +1,6 @@
 # Arquivos de linguagem do Laravel 7.x - Português do Brasil
 
-O arquivo README.md foi baseado no do repositório [enniosousa/laravel-5.5-pt-BR-localization](https://github.com/enniosousa/laravel-5.5-pt-BR-localization). A tradução foi feita por mim a partir dos arquivos originais do Laravel na versão 7.x.
+O arquivo README.md foi baseado no do repositório [enniosousa/laravel-5.5-pt-BR-localization](https://github.com/enniosousa/laravel-5.5-pt-BR-localization). A tradução foi a partir dos arquivos originais do Laravel na versão 7.x.
 
 ## Instalação
 
