@@ -1,13 +1,13 @@
-# Arquivos de linguagem do Laravel 5.5 - Português do Brasil
+# Arquivos de linguagem do Laravel 7.x - Português do Brasil
 
-O arquivo README.md foi baseado no do repositório [Leomhl/laravel-5.4-pt-br-localization](https://github.com/Leomhl/laravel-5.4-pt-br-localization). A tradução foi feita por mim a partir dos arquivos originais do Laravel na versão 5.5 <s>(que é em inglês)</s>
+O arquivo README.md foi baseado no do repositório [Leomhl/laravel-5.4-pt-br-localization](https://github.com/Leomhl/laravel-5.4-pt-br-localization). A tradução foi feita por mim a partir dos arquivos originais do Laravel na versão 7.x.
 
 ## Instalação
 
 1. Clonar este repositório na pasta `resources/lang/` do seu projeto
   ```
   $ cd resources/lang/
-  $ git clone https://github.com/enniosousa/laravel-5.5-pt-BR-localization.git ./pt-BR
+  $ git clone https://github.com/cleitonsb/laravel-7.x-pt-BR-localization.git ./pt-BR
   ```
 
   Você pode remover o diretório .git caso deseje incluir e versionar os arquivos deste projeto no seu repositório.
@@ -23,7 +23,7 @@ O arquivo README.md foi baseado no do repositório [Leomhl/laravel-5.4-pt-br-loc
 
 2. Configurar o Framework para utilizar 'pt-BR' como linguagem padrão
   ```
-  // Linha 81 do arquivo config/app.php
+  // No arquivo config/app.php localize e altere
   'locale' => 'pt-BR',
   ```
   
